@@ -55,3 +55,10 @@ body{
     line-height: 1.6em;
 
 }
+
+#showcase p{
+    color: aliceblue;
+}
+#sidebar{
+    color: #fff;
+}
